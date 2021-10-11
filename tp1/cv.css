@@ -1,0 +1,12 @@
+body{
+	background-color: grey;
+}
+a:hover {
+	color: orange;
+}
+table {
+	background-color: white;
+}
+.titre{
+	text-align: center;
+}
